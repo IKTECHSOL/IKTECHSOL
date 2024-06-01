@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **iktechsol9@gmail.com**
+- 📫 How to reach us **iktechsol9@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
