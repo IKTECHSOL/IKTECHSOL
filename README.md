@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, This is Official Github Account of IkTechsol</h1>
 <h3 align="center">A Team of passionate flutter developers</h3>
-<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<img align="center" alt="Banner" src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif" width="100%" height="300" />
 
+<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iktechsol&label=Profile%20views&color=0e75b6&style=flat" alt="iktechsol" /> </p>
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **iktechsol9@gmail.com**
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
